@@ -20,10 +20,10 @@ class Resume extends Component {
   
 
     <Card.Text >
+    <h3 style={{fontSize:'12px',textShadow: '#ffffff 0px 0px 6px', }}> My passion for programming was sparked when I started learning about Computer Sciences، My Journey started with developing my skills in testing and developing programs and system which led me to building programs and running software project </h3>    
 
-    <h3 style={{fontSize:'18px',textShadow: '#ffffff 0px 0px 6px', }}> My passion for programming was sparked when I started learning about Computer Sciences، My Journey started with developing my skills in testing and developing programs and system which led me to building programs and running software project </h3>    
     </Card.Text>
-<Alert variant="secondary" style={{marginTop:'72px',marginLeft:'28px'
+<Alert variant="secondary" style={{marginTop:'122px',marginLeft:'28px'
  ,height:'0px',textAlign:'left',algin:'left' ,color:'black',backgroundColor:'black',border:'black'}}>
  
 </Alert>
@@ -35,7 +35,7 @@ class Resume extends Component {
 
   <Carousel.Item>
 
-    <Card.Text style={{color:'white',fontSize:'16px'}}>
+    <Card.Text style={{color:'white',fontSize:'12px'}}>
          
          <p>
          - GA_software Engineering{' '}
