@@ -25,7 +25,7 @@ class Main extends Component {
        <div className="wow bounceIn" data-wow-offset="50" data-wow-delay="4.30s"> Front End Developer</div>
        <div className="wow bounceIn" data-wow-offset="50" data-wow-delay="5.500s"> Back End Developer </div>
 
-       <div className="wow bounceIn" data-wow-offset="50" data-wow-delay="6.10s" style={{marginTop:'-92px',marginRight:'302px'}}>
+       <div className="wow bounceIn" data-wow-offset="50" data-wow-delay="6.10s" style={{marginTop:'-82px',marginRight:'302px'}}>
 <a target='_blank' href="https://github.com/ASSROUGUI?"><i class='fa fa-github'style={{ color:'black' }}></i></a><p></p>
 <a  target='_blank' href="mailto:ashwagalrougui@gmail.com"><i class='fa fa-envelope'style={{color:'#FF9791'}}></i></a><p></p>
 <a  target='_blank'href="https://assrougui.github.io/my-website/"><i class="fa fa-globe" style={{color:'#E5E9E8'}}aria-hidden="true"></i></a><p></p>
