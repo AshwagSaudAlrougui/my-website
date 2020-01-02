@@ -12,11 +12,11 @@ class Main extends Component {
    
 
          <div className='App-header' id ='main'>
-         <div className="wow flip"  style={{marginTop:'12px',marginRight:'982px'}} data-wow-offset="50" data-wow-delay="3.10s"><img src="mylogo.jpeg" height='233px'  alt=""/>
+         <div className="wow bounceIn"  style={{marginTop:'32px',marginRight:'262px'}} data-wow-offset="50" data-wow-delay="6.10s"><img src="mylogo.jpeg" height='133px'  alt=""/>
          
  </div>
 
-         <Typical
+         <Typical 
         steps={['Hello', 400, ' This is Ashwag Alrougui', 900]}
         loop={Infinity}
         wrapper="p"
@@ -25,7 +25,7 @@ class Main extends Component {
        <div className="wow bounceIn" data-wow-offset="50" data-wow-delay="4.30s"> Front End Developer</div>
        <div className="wow bounceIn" data-wow-offset="50" data-wow-delay="5.500s"> Back End Developer </div>
 
-       <div style={{marginTop:'-92px',marginRight:'982px'}}>
+       <div className="wow bounceIn" data-wow-offset="50" data-wow-delay="3.10s" style={{marginTop:'-92px',marginRight:'292px'}}>
 <a target='_blank' href="https://github.com/ASSROUGUI?"><i class='fa fa-github'style={{ color:'black' }}></i></a><p></p>
 <a  target='_blank' href="mailto:ashwagalrougui@gmail.com"><i class='fa fa-envelope'style={{color:'#FF9791'}}></i></a><p></p>
 <a  target='_blank'href="https://assrougui.github.io/my-website/"><i class="fa fa-globe" style={{color:'#E5E9E8'}}aria-hidden="true"></i></a><p></p>
