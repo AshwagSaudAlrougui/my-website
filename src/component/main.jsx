@@ -12,7 +12,8 @@ class Main extends Component {
    
 
          <div className='App-header' id ='main'>
-         <div className="wow bounceIn" data-wow-offset="50" data-wow-delay="3.10s"><img src="mylogo.jpeg" height='333px' style={{marginLeft:'-1112px'}} alt=""/>
+         <div className="wow flip"  style={{marginTop:'12px',marginRight:'982px'}} data-wow-offset="50" data-wow-delay="3.10s"><img src="mylogo.jpeg" height='233px'  alt=""/>
+         
  </div>
 
          <Typical
@@ -23,7 +24,18 @@ class Main extends Component {
        <div className="wow bounceIn" data-wow-offset="50" data-wow-delay="3.10s">Software Engineer Full Stack </div>
        <div className="wow bounceIn" data-wow-offset="50" data-wow-delay="4.30s"> Front End Developer</div>
        <div className="wow bounceIn" data-wow-offset="50" data-wow-delay="5.500s"> Back End Developer </div>
-     
+
+       <div style={{marginTop:'-92px',marginRight:'982px'}}>
+<a target='_blank' href="https://github.com/ASSROUGUI?"><i class='fa fa-github'style={{ color:'black' }}></i></a><p></p>
+<a  target='_blank' href="mailto:ashwagalrougui@gmail.com"><i class='fa fa-envelope'style={{color:'#FF9791'}}></i></a><p></p>
+<a  target='_blank'href="https://assrougui.github.io/my-website/"><i class="fa fa-globe" style={{color:'#E5E9E8'}}aria-hidden="true"></i></a><p></p>
+<a  target='_blank' href="https://www.linkedin.com/in/ashwagalrouguisoftwareengineer/" style={{color:'#4E97FE'}}><i class="fa fa-linkedin" aria-hidden="true"></i></a><p></p>
+
+<i  id='x' class="fa fa-phone" style={{color:'green'}}>+966553465261</i> <p></p>
+{/* <i class="fa fa-home" aria-hidden="true"style={{marginLeft:'-512px',color:'black'}}></i>{'c'} */}
+<i class="fa fa-map-marker" aria-hidden="true"style={{textAlign:'left',color:'grey'}}>{'  '}KSA,Riyadh</i>{' '}
+
+</div>
           </div> 
  
         );

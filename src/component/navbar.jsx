@@ -62,7 +62,7 @@ export default class Navbar extends Component {
 
 		
           
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link
                 activeClass="active"
                 to="contact"
@@ -73,7 +73,7 @@ export default class Navbar extends Component {
               >
                 Contact
               </Link>
-            </li>
+            </li> */}
 
             
           

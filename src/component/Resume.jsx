@@ -24,7 +24,7 @@ class Resume extends Component {
     <h3 style={{fontSize:'18px',textShadow: '#ffffff 0px 0px 6px', }}> My passion for programming was sparked when I started learning about Computer Sciences، My Journey started with developing my skills in testing and developing programs and system which led me to building programs and running software project </h3>    
     </Card.Text>
 <Alert variant="secondary" style={{marginTop:'72px',marginLeft:'28px'
-  ,width:'0px',height:'0px',textAlign:'left',algin:'left' ,color:'black',backgroundColor:'black',border:'black'}}>
+ ,height:'0px',textAlign:'left',algin:'left' ,color:'black',backgroundColor:'black',border:'black'}}>
  
 </Alert>
 <a target='_blank'href="https://docs.google.com/document/d/1CL5N_haMwMDzeIlGb5tdcVFdqdXoc_tbsCUZlHRZfFA/edit">

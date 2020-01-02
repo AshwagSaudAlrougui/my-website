@@ -49,12 +49,12 @@ new WOW.WOW().init();
           dark={true}
           id="projects"
         />
-        <Contact
+        {/* <Contact
           title="Section 3"
           subtitle={dummyText}
           dark={true}
           id="contact"
-        />
+        /> */}
        
        
       </div>
