@@ -31,9 +31,9 @@ class Main extends Component {
 <a  target='_blank'href="https://assrougui.github.io/my-website/"><i class="fa fa-globe" style={{color:'#E5E9E8'}}aria-hidden="true"></i></a><p></p>
 <a  target='_blank' href="https://www.linkedin.com/in/ashwagalrouguisoftwareengineer/" style={{color:'#4E97FE'}}><i class="fa fa-linkedin" aria-hidden="true"></i></a><p></p>
 
-<i  id='x' class="fa fa-phone" style={{color:'green',fontSize:'14px',marginLeft:'59px'}}>+966553465261</i> <p></p>
+<i  id='x' class="fa fa-phone" style={{color:'green',fontSize:'14px',marginLeft:'79px'}}>+966553465261</i> <p></p>
 {/* <i class="fa fa-home" aria-hidden="true"style={{marginLeft:'-512px',color:'black'}}></i>{'c'} */}
-<i class="fa fa-map-marker" aria-hidden="true"style={{textAlign:'left',color:'grey',fontSize:'14px',marginLeft:'59px'}}>{'  '}KSA,Riyadh</i>{' '}
+<i class="fa fa-map-marker" aria-hidden="true"style={{textAlign:'left',color:'grey',fontSize:'14px',marginLeft:'79px'}}>{'  '}KSA,Riyadh</i>{' '}
 
 </div>
           </div> 
