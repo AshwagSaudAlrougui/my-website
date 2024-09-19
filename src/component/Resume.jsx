@@ -88,10 +88,27 @@ class Resume extends Component {
     
                 </Carousel.Caption>
   </Carousel.Item>
+
+       <Carousel.Item>
+
+    <Card.Text style={{color:'white',fontSize:'12px'}}>
+         
+         <p>
+          1-Software Quality Assurance Testing bootcamp at (SDA) Saudi digital academy (internship) ,27 Sep -2021 to 17-Dec -2021 :many tools used to test software :manual and Automation test .{' '}
+         </p>
+
+          <p>
+         -software engineering bootcamp at (GA) general assembly Software engineer For 4months full-time(16-june -12 sep 2019) : full_stack :backend & frontend developer and API ..{' '}
+         </p>
+            <p>
+         3-software tester virtual internship program with Nlsql.com and SDA For  4months full-time (Sep 2021 - Dec 2021 ).{' '}
+         </p>
+               </Card.Text>   
+    <Carousel.Caption>
   <Carousel.Item>
   <Card.Text style={{color:'white',fontSize:'16px'}}>
 
-   <p style={{fontSize:'20px'}}> Languages :</p>
+   <p style={{fontSize:'20px'}}> CORE SKILLS :</p>
   <p>
  - Java script
       </p>  
