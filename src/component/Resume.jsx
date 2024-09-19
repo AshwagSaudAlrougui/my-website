@@ -120,6 +120,26 @@ class Resume extends Component {
 
 <p>-MongoDB,sql</p>
 <p>-jquery</p>
+
+      <p>-Selenium Appium </p>
+<p>-Katalon</p>
+
+      <p>-JUnit Groovy and Geb</p>
+<p>-API Testing :postman,swagger</p>
+
+        <p>-JMeter</p>
+
+     <p>-Tableau TestNG</p>  
+      <p>-Java Automation test</p>  
+      <p>-Manual test Java script</p>
+
+
+
+
+
+
+
+
 </Card.Text>
 
 
